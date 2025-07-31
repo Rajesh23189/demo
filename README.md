@@ -1,2 +1,2 @@
 # demo
-Fast Repository for test git &amp; Github
+Fast Repository for test git &amp; Github.
